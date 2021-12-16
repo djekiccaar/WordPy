@@ -1,0 +1,7 @@
+,Functional Working Conditions,Functional Requirements,Reference Paragraphs
+0,Temporization After Ignition Off,None,N.A.
+1,Automatic Cranking (S&S),Yes,Stop&Start Interaction
+2,Automatic Stop (S&S),Yes,Stop&Start Interaction
+3,Low Battery,None,N.A.
+4,Plant/Emission Mode,None,N.A.
+5,Logistic Mode,None,N.A.
